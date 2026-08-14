@@ -2,11 +2,8 @@
 .DS_Store
 Thumbs.db
 
-# Obsidian 运行状态与插件缓存
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-.obsidian/plugins/*/data.json
+# Obsidian 配置、运行状态与插件缓存
+.obsidian/
 
 # 本地回收站、临时文件与软件缓存
 .trash/
@@ -24,4 +21,3 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-
