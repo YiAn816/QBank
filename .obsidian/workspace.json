@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "bc6a43d58273165a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a47122d8b27f79ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61973267fb1587b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-基础知识/计算机网络 面试题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络 面试题"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b6be185db581450",
+    "type": "split",
+    "children": [
+      {
+        "id": "62fc77981c38bbc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd65df71a0de57b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52d0087365e9ebe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0bb2806f2ae85ae2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb70977df95042d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e95bf2de93fd20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e53a74db89cf94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-基础知识/计算机网络 面试题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "37039071ce8ffe29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-基础知识/计算机网络 面试题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "43349fcc804d4454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8deebe2028c5c39e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "06ab216361cbfc38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-基础知识/计算机网络 面试题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "61973267fb1587b1",
+  "lastOpenFiles": [
+    "抖音分享口播稿.md",
+    "01-基础知识/计算机网络 面试题.md",
+    "01-基础知识/操作系统 面试题.md",
+    "02-后端与架构/分布式与微服务 面试题.md",
+    "00-面试题总索引.md",
+    "04-工程实践/测试 面试题.md",
+    "04-工程实践/安全 面试题.md",
+    "00-内容校对进度.md",
+    "99-待人工确认/待识别内容.md",
+    "03-AI/AI Agent 面试题.md",
+    "03-AI/大模型基础 面试题.md",
+    "03-AI/上下文与记忆 面试题.md",
+    "02-后端与架构/消息队列 面试题.md",
+    "04-工程实践/Python 面试题.md",
+    "99-待人工确认",
+    "03-AI/NLP与深度学习 面试题.md",
+    "03-AI/向量数据库 面试题.md",
+    "02-后端与架构/Redis与缓存 面试题.md",
+    "03-AI/RAG 面试题.md",
+    "98-原始导入/面试题-0c71c406-9d93-453b-8c1f-eea657860cfa.md",
+    "99-待人工确认/待分类题目 面试题.md",
+    "03-AI/提示词工程 面试题.md",
+    "03-AI/搜索与推荐 面试题.md",
+    "03-AI/多模态与语音 面试题.md",
+    "03-AI/大模型微调与评测 面试题.md",
+    "04-工程实践/前端 面试题.md"
+  ]
+}
